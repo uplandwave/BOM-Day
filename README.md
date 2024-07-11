@@ -5,6 +5,9 @@
 ## Overview
 **BOM-Day** is a simple and elegant website that displays a new and random verse from the Book of Mormon.
 
+## Link
+[BOM Day](https://uplandwave.github.io/BOM-Day/)
+
 ## Intended Use
 Created to serve as a new default home screen for new browser tabs or windows. It provides a quick reminder to read the word of God as often as possible.
 
